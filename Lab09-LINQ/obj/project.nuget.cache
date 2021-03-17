@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nVEKDUbEhFcPjAOxyCeIu+QabOymsOnMlCfF0emtKGcZA6jDzgp32X4ecpbaWRqJktEeSYnkQuhqsq4x87NeVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\moreg\\OneDrive\\Documents\\Codefellows\\401\\LINQ\\Lab09-LINQ\\Lab09-LINQ\\Lab09-LINQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moreg\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

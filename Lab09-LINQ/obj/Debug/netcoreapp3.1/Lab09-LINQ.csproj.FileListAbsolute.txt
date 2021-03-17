@@ -1,0 +1,15 @@
+C:\Users\moreg\OneDrive\Documents\Codefellows\401\LINQ\Lab09-LINQ\Lab09-LINQ\bin\Debug\netcoreapp3.1\Lab09-LINQ.exe
+C:\Users\moreg\OneDrive\Documents\Codefellows\401\LINQ\Lab09-LINQ\Lab09-LINQ\bin\Debug\netcoreapp3.1\Lab09-LINQ.deps.json
+C:\Users\moreg\OneDrive\Documents\Codefellows\401\LINQ\Lab09-LINQ\Lab09-LINQ\bin\Debug\netcoreapp3.1\Lab09-LINQ.runtimeconfig.json
+C:\Users\moreg\OneDrive\Documents\Codefellows\401\LINQ\Lab09-LINQ\Lab09-LINQ\bin\Debug\netcoreapp3.1\Lab09-LINQ.runtimeconfig.dev.json
+C:\Users\moreg\OneDrive\Documents\Codefellows\401\LINQ\Lab09-LINQ\Lab09-LINQ\bin\Debug\netcoreapp3.1\Lab09-LINQ.dll
+C:\Users\moreg\OneDrive\Documents\Codefellows\401\LINQ\Lab09-LINQ\Lab09-LINQ\bin\Debug\netcoreapp3.1\Lab09-LINQ.pdb
+C:\Users\moreg\OneDrive\Documents\Codefellows\401\LINQ\Lab09-LINQ\Lab09-LINQ\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\moreg\OneDrive\Documents\Codefellows\401\LINQ\Lab09-LINQ\Lab09-LINQ\obj\Debug\netcoreapp3.1\Lab09-LINQ.csprojAssemblyReference.cache
+C:\Users\moreg\OneDrive\Documents\Codefellows\401\LINQ\Lab09-LINQ\Lab09-LINQ\obj\Debug\netcoreapp3.1\Lab09-LINQ.AssemblyInfoInputs.cache
+C:\Users\moreg\OneDrive\Documents\Codefellows\401\LINQ\Lab09-LINQ\Lab09-LINQ\obj\Debug\netcoreapp3.1\Lab09-LINQ.AssemblyInfo.cs
+C:\Users\moreg\OneDrive\Documents\Codefellows\401\LINQ\Lab09-LINQ\Lab09-LINQ\obj\Debug\netcoreapp3.1\Lab09-LINQ.csproj.CoreCompileInputs.cache
+C:\Users\moreg\OneDrive\Documents\Codefellows\401\LINQ\Lab09-LINQ\Lab09-LINQ\obj\Debug\netcoreapp3.1\Lab09-LINQ.csproj.CopyComplete
+C:\Users\moreg\OneDrive\Documents\Codefellows\401\LINQ\Lab09-LINQ\Lab09-LINQ\obj\Debug\netcoreapp3.1\Lab09-LINQ.dll
+C:\Users\moreg\OneDrive\Documents\Codefellows\401\LINQ\Lab09-LINQ\Lab09-LINQ\obj\Debug\netcoreapp3.1\Lab09-LINQ.pdb
+C:\Users\moreg\OneDrive\Documents\Codefellows\401\LINQ\Lab09-LINQ\Lab09-LINQ\obj\Debug\netcoreapp3.1\Lab09-LINQ.genruntimeconfig.cache
